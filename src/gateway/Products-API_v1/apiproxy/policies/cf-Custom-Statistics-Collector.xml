@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StatisticsCollector async="false" continueOnError="false" enabled="true" name="cf-Custom-Statistics-Collector">
+    <DisplayName>cf-Custom-Statistics-Collector</DisplayName>
+    <Properties/>
+    <Statistics>
+        <Statistic name="messageCorrid" ref="messageCorrId" type="STRING">default</Statistic>
+    </Statistics>
+</StatisticsCollector>
